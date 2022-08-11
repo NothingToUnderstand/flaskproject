@@ -1,0 +1,19 @@
+body{
+    font-family: sans-serif;
+}
+
+.table,h1,.form>input,h4{
+    text-align: center;
+    width:70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+td{
+    text-align: center;
+    padding: 10px;
+}
+
+.form>input{
+    width: 250px;
+    margin-left:10% ;
+}
